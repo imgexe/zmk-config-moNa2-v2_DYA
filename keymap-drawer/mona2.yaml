@@ -16,6 +16,7 @@ layers:
   - D
   - F
   - G
+  - {t: ▽, type: trans}
   - '-'
   - H
   - J
@@ -59,6 +60,7 @@ layers:
   - D
   - F
   - G
+  - {t: ▽, type: trans}
   - '-'
   - H
   - J
@@ -102,6 +104,7 @@ layers:
   - ^
   - '&'
   - '*'
+  - {t: ▽, type: trans}
   - '%'
   - '0'
   - '4'
@@ -145,6 +148,7 @@ layers:
   - ^
   - '&'
   - '*'
+  - {t: ▽, type: trans}
   - '%'
   - '0'
   - '4'
@@ -188,6 +192,7 @@ layers:
   - '&screenshot'
   - RIGHT ARROW
   - '*'
+  - {t: ▽, type: trans}
   - _
   - '!'
   - '&mkp MB1'
@@ -231,6 +236,7 @@ layers:
   - Gui+Ctl+Sft+4
   - RIGHT ARROW
   - Gui+A
+  - {t: ▽, type: trans}
   - _
   - '!'
   - '&mkp MB1'
@@ -274,6 +280,7 @@ layers:
   - DOWN ARROW
   - RIGHT ARROW
   - END
+  - {t: ▽, type: trans}
   - OUT TOG
   - {t: ▽, type: trans}
   - '&mkp MB1'
@@ -317,6 +324,7 @@ layers:
   - DOWN ARROW
   - RIGHT ARROW
   - END
+  - {t: ▽, type: trans}
   - OUT TOG
   - {t: ▽, type: trans}
   - '&mkp MB1'
@@ -345,6 +353,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   FN_W:
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -430,6 +439,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   BLE_W:
   - F1
   - F2
@@ -445,6 +455,7 @@ layers:
   - F7
   - F8
   - F9
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -488,6 +499,7 @@ layers:
   - F7
   - F8
   - F9
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
